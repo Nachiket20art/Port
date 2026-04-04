@@ -898,7 +898,7 @@ a:hover {
 }
 
 .service-box .s-title {
-  font-size: 1.4rem;
+  font-size: 100%;
   text-transform: uppercase;
   text-align: center;
   padding: 0.4rem 0;
